@@ -6,8 +6,7 @@
 
 * `userRagSearchResults` - Any rag responses from pinecone based on the userInput
 * `userCurrentExercise` - Description and Guide of the current exercise user is performing
-* `userInput`- Actual user query or audio transcription 
-
+* `userInput`- Actual user query or audio transcription
 
 ### Output
 * `message` - Message received from OpenAI that will be set for Avatar to speak
